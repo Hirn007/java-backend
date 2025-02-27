@@ -1,0 +1,54 @@
+//3)
+//1) delet->raw
+//delete from zomato ehere id=6;
+//
+//
+//
+//2) truncate;
+// truncate table zomato;
+//
+//
+//
+//3) drop
+// drop database mysql04;
+//
+//
+//
+//faching queries
+//select * from zomato;->whole table
+//select * from zomato;->single raw
+//select name,email from zomato;->fixed data
+
+//like 
+// select * from zomato where name like 'k%';
+// select * from zomato where mobile like '%5';
+// select * from zomato where name like '_a%';
+//
+//
+
+// order by
+// select * from zomato order by name ASC;
+// select * from zomato by name DESC;
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+database
+
+table
+
+rider
+
+rid
+rname
+rcity
+rmobile
+
+5) data insert
+
+2) data update kunj
+
+name number 3 leater '3'
+
+asc order through mobile number
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+creat into rid(
+rid int primery key auto_increment,
+rname varchar(40),
